@@ -26,3 +26,17 @@ Name: Old Package
 Author: Reposi3 <reposithree@gmail.com>
 Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
 
+
+Package: moose_1.0-16
+Name: Moose
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: test
+Maintainer: Reese
+Author: Reese
+Section: Tweaks
+Filename: ./debs/moose_1.0-16.deb
+Depictions: https://crypticrepo.github.io/crypticrepo.github.io/depictions/moose
+Size: 12,002
+MD5sum: 8f87b730406007cd7cd11d867a30f53e

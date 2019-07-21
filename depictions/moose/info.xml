@@ -1,0 +1,23 @@
+<package>
+	<id>moose_1.0-16</id>
+	<name>moose</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+			<maxiOS>7.0</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>This is an old package. Requires iOS 7 and below..</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog> <version>1.0</version>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>
